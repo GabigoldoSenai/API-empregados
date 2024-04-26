@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Fabiano Leite",
+    "cargo": "faxineiro",
+    "cpf": "123.456.789-00",
+    "data_nascimento": "10-04-2006",
+    "email": "fabianoleite@yahoo.com.br",
+    "senha": [
+      "123456",
+      "123456"
+    ],
+    "telefone": [
+      "(21) 989324212"
+    ],
+    "endereço": [
+      {
+        "numero": "231",
+        "CEP": "56343-17",
+        "bairro": "Cruz das Almas",
+        "rua": "18",
+        "referencia": ""
+      }
+    ],
+    "data_contratacao": "02-08-1923",
+    "salario": 2500,
+    "habilidades": [
+      "ingles",
+      "excel",
+      "java"
+    ]
+  },
+  {
+    "nome": "Mariana ContaUm",
+    "cargo": "desenvolvedora",
+    "CPF": "99993999999",
+    "data_nascimento": "10-04-2003",
+    "email": "galinhapintadinha@yahoo.com.br",
+    "telefone": [
+      "934264363"
+    ],
+    "endereço": [
+      {
+        "numero": "33",
+        "CEP": "745423",
+        "bairro": "Jacintinho",
+        "rua": "Laura Nobre",
+        "referencia": ""
+      }
+    ],
+    "data_contratacao": "02-08-1245",
+    "salario": 4500,
+    "habilidades": ["assembly", "react", "java"],
+    "id": 2
+  }
+]
